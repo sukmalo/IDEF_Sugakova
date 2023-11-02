@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T14:38:10.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="nfUhBJ4calwtLtqQ0w5G" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T14:38:51.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5pzkcEmPem5sX_MSaTwv" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1615" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
           <mxGeometry x="410" y="890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-93" value="ID скрипта светофора" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="230" height="150" as="geometry" />
+          <mxGeometry x="220" y="100" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-94" value="Время обработки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="71VfHX2NH4AoiYsdJ9OX-93">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -205,6 +205,9 @@
               <mxPoint x="50" y="385" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="71VfHX2NH4AoiYsdJ9OX-99" value="Разрабатывается" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
