@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T01:07:24.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="UZsbmjuz1bVYAHS2if_c" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-03T01:12:15.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="t0V3qU6kvlSejf1O6QbU" version="22.0.8" type="github" pages="3">
   <diagram id="jDZyjU-NRDZu6kYY1GAh" name="IDEF3 - групповое">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -92,15 +92,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="IDEF1 - свое">
-    <mxGraphModel dx="1235" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1235" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="71VfHX2NH4AoiYsdJ9OX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endSize=10;endArrow=oval;endFill=1;" parent="1" source="71VfHX2NH4AoiYsdJ9OX-1" target="71VfHX2NH4AoiYsdJ9OX-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-1" value="ID команды" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="260" height="120" as="geometry" />
+          <mxGeometry x="515" y="-10" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-2" value="Название команды" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="71VfHX2NH4AoiYsdJ9OX-1" vertex="1">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
@@ -273,7 +270,7 @@
           <mxGeometry x="170" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-81" value="Используется" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="145" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="145" y="635" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-82" value="Используется" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="85" y="810" width="80" height="30" as="geometry" />
@@ -299,16 +296,14 @@
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-96" value="Дата создания" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="71VfHX2NH4AoiYsdJ9OX-93" vertex="1">
           <mxGeometry y="120" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="71VfHX2NH4AoiYsdJ9OX-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=10;endArrow=oval;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="71VfHX2NH4AoiYsdJ9OX-95" target="71VfHX2NH4AoiYsdJ9OX-88" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="50" y="175" />
-              <mxPoint x="50" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="71VfHX2NH4AoiYsdJ9OX-99" value="Разрабатывается" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="beHkhpaUEUdG98gx7y9p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71VfHX2NH4AoiYsdJ9OX-95" target="71VfHX2NH4AoiYsdJ9OX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beHkhpaUEUdG98gx7y9p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71VfHX2NH4AoiYsdJ9OX-4" target="71VfHX2NH4AoiYsdJ9OX-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
