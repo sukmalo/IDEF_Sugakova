@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T01:17:39.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="wBK8GO9MrmlMYbDf4q7U" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-03T01:20:44.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="nRgJfJOXq5bRAJGLEBIh" version="22.0.8" type="github" pages="3">
   <diagram id="jDZyjU-NRDZu6kYY1GAh" name="IDEF3 - групповое">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,13 +77,13 @@
           <mxGeometry x="1010" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BEHgyF1ntrgZddMQC_46-14" value="Забронировать услуги (при необходимости)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="540" width="140" height="100" as="geometry" />
+          <mxGeometry x="1530" y="475" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BEHgyF1ntrgZddMQC_46-15" value="1.1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEHgyF1ntrgZddMQC_46-14">
           <mxGeometry y="80" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BEHgyF1ntrgZddMQC_46-16" value="Забронировать услуги (при необходимости)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="670" width="140" height="100" as="geometry" />
+          <mxGeometry x="1530" y="605" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BEHgyF1ntrgZddMQC_46-17" value="1.1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEHgyF1ntrgZddMQC_46-16">
           <mxGeometry y="80" width="140" height="20" as="geometry" />
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pa55-tMJxZ_2naUBNXwN" name="IDEF3 - свое">
-    <mxGraphModel dx="1000" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
